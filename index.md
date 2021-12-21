@@ -17,3 +17,13 @@ In addition, it provides some enhancements for local development, such as a loca
 The biggest benefit comes from its wide and continuously growing set of predefined test doubles (stubs, mocks, spies, and fakes) and builders for standard services and model classes. These help to write better and faster running unit tests without the need of heavy frameworks like Mockito.
 
 More details on the `sapcommercetoolkit` can be found in its [README.md](https://github.com/sapcxtools/extensions/hybris/bin/custom/sapcxtools/sapcommercetools/README.md) file.
+
+## License
+
+All SAP CX tools extensions are licensed under the GNU General Public License v3.0.
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+
+![License overview](/assets/images/license_overview.png)
+
+[View full GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
