@@ -29,5 +29,5 @@ Permissions of this strong copyleft license are conditioned on making available 
 [View full GNU General Public License v3.0][license]
 
 [sapcxtools]: https://www.sapcx.tools
-[readme]: https://github.com/sapcxtools/extensions/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
+[readme]: https://github.com/sapcxtools/extensions/blob/main/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
 [license]: https://choosealicense.com/licenses/gpl-3.0/
