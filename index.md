@@ -4,9 +4,9 @@ SAP CX tools is a set of tools and extensions that provide best-in-class enhance
 
 ## SAP Commerce Extensions
 
-All extensions available on [sapcx.tools](https://www.sapcx.tools) are built with high test coverage and do not influence the behavior of your project without changes to your configuration. This is guaranteed and intended by design, because sapcx.tools gives the full control of functionality into the hands of the project teams. Our coding conventions and code reviews follow high standards and decline features, that will change the standard behavior without activating them via a configuration parameter.
+All extensions available on [sapcx.tools][sapcxtools] are built with high test coverage and do not influence the behavior of your project without changes to your configuration. This is guaranteed and intended by design, because [sapcx.tools][sapcxtools] gives the full control of functionality into the hands of the project teams. Our coding conventions and code reviews follow high standards and decline features, that will change the standard behavior without activating them via a configuration parameter.
 
-The following extensions are served and maintained by sapcx.tools.
+The following extensions are served and maintained by [sapcx.tools][sapcxtools].
 
 ### SAP Commerce Toolkit
 
@@ -16,7 +16,7 @@ In addition, it provides some enhancements for local development, such as a loca
 
 The biggest benefit comes from its wide and continuously growing set of predefined test doubles (stubs, mocks, spies, and fakes) and builders for standard services and model classes. These help to write better and faster running unit tests without the need of heavy frameworks like Mockito.
 
-More details on the `sapcommercetoolkit` can be found in its [README.md](https://github.com/sapcxtools/extensions/hybris/bin/custom/sapcxtools/sapcommercetools/README.md) file.
+More details on the `sapcommercetoolkit` can be found in its [README.md][readme] file.
 
 ## License
 
@@ -26,4 +26,8 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 ![License overview](/assets/images/license_overview.png)
 
-[View full GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[View full GNU General Public License v3.0][license]
+
+[sapcxtools]: https://www.sapcx.tools
+[readme]: https://github.com/sapcxtools/extensions/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
+[license]: https://choosealicense.com/licenses/gpl-3.0/
