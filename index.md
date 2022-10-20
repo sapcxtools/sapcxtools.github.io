@@ -20,14 +20,14 @@ More details on the `sapcommercetoolkit` can be found in its [README.md][readme]
 
 ## License
 
-All SAP CX tools extensions are licensed under the GNU General Public License v3.0.
+All SAP CX Tools extensions are licensed under the MIT License.
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ![License overview](/assets/images/license_overview.png)
 
-[View full GNU General Public License v3.0][license]
+[View full MIT License][license]
 
 [sapcxtools]: https://www.sapcx.tools
 [readme]: https://github.com/sapcxtools/extensions/blob/main/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
-[license]: https://choosealicense.com/licenses/gpl-3.0/
+[license]: https://choosealicense.com/licenses/mit/
