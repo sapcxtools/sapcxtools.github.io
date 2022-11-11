@@ -20,14 +20,12 @@ More details on the `sapcommercetoolkit` can be found in its [README.md][readme]
 
 ## License
 
-All SAP CX Tools extensions are licensed under the MIT License.
+All SAP CX Tools extensions are licensed under the Apache 2.0 license.
 
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Contributors provide an express grant of patent rights.
+A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-![License overview](/assets/images/license_overview.png)
-
-[View full MIT License][license]
+[View full Apache 2.0 License][license]
 
 [sapcxtools]: https://www.sapcx.tools
 [readme]: https://github.com/sapcxtools/extensions/blob/main/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
-[license]: https://choosealicense.com/licenses/mit/
+[license]: https://choosealicense.com/licenses/apache-2.0/
