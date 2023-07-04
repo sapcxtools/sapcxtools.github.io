@@ -56,11 +56,11 @@ A permissive license whose main conditions require preservation of copyright and
 
 [View full Apache 2.0 License][license]
 
-[sapcxtools]: https://www.sapcx.tools
-[sapcommercetoolkitreadme]: https://github.com/sapcxtools/workspace/blob/main/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
-[sapcxbackofficereadme]: https://github.com/sapcxtools/workspace/blob/main/hybris/bin/custom/sapcxtools/sapcxbackoffice/README.md
-[sapcxenvconfigreadme]: https://github.com/sapcxtools/workspace/blob/main/hybris/bin/custom/sapcxtools/sapcxenvconfig/README.md
-[sapcxreportingreadme]: https://github.com/sapcxtools/workspace/blob/main/hybris/bin/custom/sapcxtools/sapcxreporting/README.md
-[sapcxsinglesignonreadme]: https://github.com/sapcxtools/workspace/blob/main/hybris/bin/custom/sapcxtools/sapcxsinglesignon/README.md
+[sapcxtools]: https://github.com/sapcxtools
+[sapcommercetoolkitreadme]: https://github.com/sapcxtools/workspace/blob/main/core-customize/hybris/bin/custom/sapcxtools/sapcommercetoolkit/README.md
+[sapcxbackofficereadme]: https://github.com/sapcxtools/workspace/blob/main/core-customize/hybris/bin/custom/sapcxtools/sapcxbackoffice/README.md
+[sapcxenvconfigreadme]: https://github.com/sapcxtools/workspace/blob/main/core-customize/hybris/bin/custom/sapcxtools/sapcxenvconfig/README.md
+[sapcxreportingreadme]: https://github.com/sapcxtools/workspace/blob/main/core-customize/hybris/bin/custom/sapcxtools/sapcxreporting/README.md
+[sapcxsinglesignonreadme]: https://github.com/sapcxtools/workspace/blob/main/core-customize/hybris/bin/custom/sapcxtools/sapcxsinglesignon/README.md
 [okta]: https://www.okta.com/
 [license]: https://choosealicense.com/licenses/apache-2.0/
